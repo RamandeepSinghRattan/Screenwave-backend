@@ -1,0 +1,1 @@
+This project is the backend of the Screen Wave movie app, built using Java Spring Boot. It includes user authentication with JWT tokens, CRUD operations for user movie data, gateway routing, service discovery with Eureka, and inter-service communication via Feign Client
